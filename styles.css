@@ -1,0 +1,66 @@
+/* Estilos CSS */
+body {
+          font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+} 
+header {
+    background-color: #CCCCFF;
+    color: #000000;
+    text-align: center;
+    padding: 1rem 0;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #0f0f0f;
+}
+nav ul li a:hover {
+    color: #0f0f0f;
+}
+main {
+    background-color: #CCCCFF;
+    padding: 20px;
+}
+footer {
+    background-color: #CCCCFF;
+    color: #000000;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+/*Estilos CSS */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid #CCCCFF;
+    padding: 8px;
+}
+th {
+    background-color: #f1f1e7;
+}
+tr:nth-child(even) {
+    background-color: #f7f7d6;
+}
+tr:hover {
+    background-color: #e2e2d9;
+}
+
+/*Estilos especificos para las secciones*/
+section h2 {
+    color: #CCCCFF;
+    border-bottom: 1px solid #CCCCFF;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
