@@ -39,9 +39,9 @@ footer {
 
 /*Estilos CSS */
 table {
-    width: 150%;
+    width: 200%;
     border-collapse: collapse;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 th, td {
     border: 2px solid #CCCCFF;
